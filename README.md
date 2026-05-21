@@ -1,3 +1,4 @@
+![Tearsheet](reports/05_final_tearsheet.png)
 # Regime-Shift 📈
 ### Macro-Aware Tactical Asset Allocation Engine
 

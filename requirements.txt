@@ -1,0 +1,24 @@
+# REGIME-SHIFT | Python Dependencies
+# Install everything with: pip install -r requirements.txt
+
+# Data
+yfinance>=0.2.40          # Downloads stock/ETF data from Yahoo Finance
+fredapi>=0.5.1            # Downloads macro data from Federal Reserve (FRED)
+pandas>=2.0.0             # DataFrames — your main data structure
+numpy>=1.26.0             # Numerical math, matrix ops
+
+# Machine Learning
+hmmlearn>=0.3.0           # Hidden Markov Models (Phase 2)
+scikit-learn>=1.3.0       # Preprocessing helpers (StandardScaler etc.)
+scipy>=1.11.0             # Stats, optimization helpers
+
+# Portfolio Optimization
+cvxpy>=1.4.0              # Convex optimization (Phase 3)
+
+# Visualization
+matplotlib>=3.7.0         # All charts and plots
+seaborn>=0.12.0           # Statistical plots (nicer than raw matplotlib)
+
+# Notebook
+jupyter>=1.0.0            # For the final notebook deliverable
+ipykernel>=6.0.0
